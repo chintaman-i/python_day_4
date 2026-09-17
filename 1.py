@@ -1,5 +1,5 @@
-def great():
+def greet():
     print("Hello, World!")
 
 
-great()
+greet()   
